@@ -1,0 +1,4 @@
+flake8          # Code linting
+pytest          # Unit testing
+pytest-cov      # Test coverage report
+pre-commit      # Hook manager (optional)
